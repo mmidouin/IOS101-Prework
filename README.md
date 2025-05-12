@@ -4,7 +4,7 @@ Submitted by: **Makendy Midouin**
 
 **ColorChanger** is an app that displays three labels and allows users to change the background color of the screen to a random color by tapping a button.
 
-Time spent: **3** hours spent in total
+Time spent: **1.5** hours spent in total
 
 ## Required Features
 
